@@ -6,7 +6,7 @@ This repository contains an example Google Cloud Platform Project Landing Zone O
 - Artifact Registry Repository for container images
 - Secret Manager secrets (not secret versions)
 
-See [GCP Project Landing Zone module documentation](../modules/gcp-project-landing-zone/v1.0.0/README.md) for detailed information about the LZ module. The LZ module itself uses few modules to promote reusability.
+The LZ module itself uses few modules to promote reusability.
 
 This configuration is used with [OpenTofu](https://opentofu.org/), but can easily be adjusted to be used with Terraform. No OpenTofu specific features are used.
 
